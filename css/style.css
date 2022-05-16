@@ -1,0 +1,18 @@
+#blackbox {
+  margin: 0 auto;
+  width: 700px;
+  height: 900px;
+  background-color: black;
+  position: relative;
+}
+
+#blackbox .yellowcircle {
+  width: 90px;
+  height: 90px;
+  background-color: #ffd904;
+  border-radius: 50%;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  position: absolute;
+}
+/*# sourceMappingURL=style.css.map */
